@@ -29,7 +29,12 @@ Currently exploring automation, data analysis, and documentation tools to make r
 * Miro
 * Documentation and reporting
 
-### Projects
+
+## Projects
+
+* **[Blackland](https://github.com/nicolasanzorena266-dotcom/blackland)**
+  Narrative videogame concept about an industrial city that keeps functioning after losing what made it alive.
+  Focused on worldbuilding, symbolic horror, atmosphere, and game structure.
 
 * **[Automation scripts](https://github.com/nicolasanzorena266-dotcom/automation-scripts)**
   Small scripts to automate repetitive operational tasks, organize files, and reduce manual work.
@@ -39,4 +44,5 @@ Currently exploring automation, data analysis, and documentation tools to make r
 
 * **Workflow mapping**
   Process maps, decision trees, and operational flow documentation.
+
 

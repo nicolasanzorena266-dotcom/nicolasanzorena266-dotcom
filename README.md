@@ -31,12 +31,12 @@ Currently exploring automation, data analysis, and documentation tools to make r
 
 ### Projects
 
+* **[Automation scripts](https://github.com/nicolasanzorena266-dotcom/automation-scripts)**
+  Small scripts to automate repetitive operational tasks, organize files, and reduce manual work.
+
 * **CX process analysis**
   Analysis of customer interactions, contact reasons, friction points, and improvement opportunities.
 
 * **Workflow mapping**
   Process maps, decision trees, and operational flow documentation.
-
-* **Automation scripts**
-  Small scripts and tools to reduce repetitive manual work.
 
